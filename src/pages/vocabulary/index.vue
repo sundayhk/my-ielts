@@ -325,6 +325,11 @@ function copyAllError() {
                       <td>
                         <i
                           class="i-ph-speaker-simple-high-bold inline-block cursor-pointer"
+                          @click="play(`https://dict.youdao.com/dictvoice?type=0&audio=${item.word[0]}`)"
+                        />
+                        
+                        <i
+                          class="i-ph-speaker-simple-high-bold inline-block cursor-pointer"
                           @click="play(`vocabulary/audio/${category}/${item.word[0]}.mp3`)"
                         />
 
