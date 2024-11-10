@@ -234,31 +234,31 @@ function copyAllError() {
             </div> -->
             <label class="ml-2 inline-flex cursor-pointer items-center">
               <input v-model="isTrainingModel" type="checkbox" class="peer sr-only">
+              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300 mr-2">练习模式</span>
               <div
                 class="peer relative h-6 w-11 rounded-full bg-gray-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:border after:border-gray-300 dark:border-gray-600 after:rounded-full after:bg-white dark:bg-gray-700 peer-checked:bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 after:transition-all after:content-[''] peer-checked:after:translate-x-full peer-checked:after:border-white dark:peer-focus:ring-blue-800 rtl:peer-checked:after:-translate-x-full"
               />
-              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">练习模式</span>
             </label>
             <label v-if="isTrainingModel" class="ml-2 inline-flex cursor-pointer items-center">
               <input v-model="isShowMeaning" type="checkbox" class="peer sr-only">
+              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300 mr-2">释义</span>
               <div
                 class="peer relative h-6 w-11 rounded-full bg-gray-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:border after:border-gray-300 dark:border-gray-600 after:rounded-full after:bg-white dark:bg-gray-700 peer-checked:bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 after:transition-all after:content-[''] peer-checked:after:translate-x-full peer-checked:after:border-white dark:peer-focus:ring-blue-800 rtl:peer-checked:after:-translate-x-full"
               />
-              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">释义</span>
             </label>
             <label v-if="isTrainingModel" class="ml-2 inline-flex cursor-pointer items-center">
               <input v-model="isShowSource" type="checkbox" class="peer sr-only">
+              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300 mr-2">原词</span>
               <div
                 class="peer relative h-6 w-11 rounded-full bg-gray-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:border after:border-gray-300 dark:border-gray-600 after:rounded-full after:bg-white dark:bg-gray-700 peer-checked:bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 after:transition-all after:content-[''] peer-checked:after:translate-x-full peer-checked:after:border-white dark:peer-focus:ring-blue-800 rtl:peer-checked:after:-translate-x-full"
               />
-              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">原词</span>
             </label>
             <label v-if="isTrainingModel" class="ml-2 inline-flex cursor-pointer items-center">
               <input v-model="isAutoPlayWordAudio" type="checkbox" class="peer sr-only">
+              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300 mr-2">自动播放</span>
               <div
                 class="peer relative h-6 w-11 rounded-full bg-gray-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:border after:border-gray-300 dark:border-gray-600 after:rounded-full after:bg-white dark:bg-gray-700 peer-checked:bg-blue-600 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 after:transition-all after:content-[''] peer-checked:after:translate-x-full peer-checked:after:border-white dark:peer-focus:ring-blue-800 rtl:peer-checked:after:-translate-x-full"
               />
-              <span class="ms-3 text-sm font-medium text-gray-900 dark:text-gray-300">自动播放</span>
             </label>
           </div>
         </div>
