@@ -9,13 +9,14 @@ CUR_DIR = Path(__file__).absolute().parent
 def parse():
     part_mapping = {
         0: 'word',
-        1: 'pos',
-        2: 'meaning',
-        3: 'example',
-        4: 'extra',
+        1: 'ipa',
+        2: 'pos',
+        3: 'meaning',
+        4: 'example',
+        5: 'extra',
     }
     result = defaultdict(lambda: {'label': '', 'audio': '', 'groupCount': 0, 'wordCount': 0, 'words': []})
-    vocabulary_path = CUR_DIR / 'vocabulary.txt'
+    vocabulary_path = CUR_DIR / 'vocabulary_ipa.txt'
     contents = '\n'.join([l.strip() for l in vocabulary_path.read_text().split('\n')])
     categories = contents.split('===\n')
     cur_id = 0

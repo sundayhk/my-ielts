@@ -6,6 +6,7 @@ const CHAPTER_KEY = 'vocabulary_chapter'
 
 const isTrainingModel = ref(false)
 const isShowMeaning = ref(true)
+const isShowIPA = ref(true)
 const isAutoPlayWordAudio = ref(true)
 const isOnlyShowErrors = ref(false)
 const isFinishTraining = ref(false)
@@ -277,7 +278,10 @@ function copyAllError() {
                       <br>
                     </th>
                     <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
-                      词
+                      单词
+                    </th>
+                    <th class="p-4 text-left text-xs font-medium tracking-wider text-gray-500 dark:text-white">
+                      音标
                     </th>
                     <th class="w-0 text-left text-xs font-medium text-gray-500 dark:text-white">
                       词性
@@ -296,7 +300,7 @@ function copyAllError() {
                 <tbody class="bg-white dark:bg-gray-800">
                   <tr class="bg-hex-f3f3f3">
                     <td
-                      colspan="7"
+                      colspan="8"
                       class="px-4 py-6 text-sm font-normal text-gray-900 dark:bg-gray-500 dark:text-white"
                     >
                       <div class="flex flex-row">
@@ -363,6 +367,9 @@ function copyAllError() {
                             <i class="i-ph-copy block cursor-pointer px-4" />
                           </div>
                         </div>
+                      </td>
+                      <td class="p-4">
+                        {{ !isTrainingModel || item.showSource || (isTrainingModel && isOnlyShowErrors && item.spellError) || isShowSource ? item.ipa : '' }}
                       </td>
                       <td style="font-style: italic; font-family: times;">
                         {{ item.pos }}
