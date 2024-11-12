@@ -6,7 +6,7 @@ lithosphere|/ˈlɪθəsfɪə(r)/|n.|岩石圈|The lithosphere and the hydrospher
 ---
 oxygen|/ˈɒksɪdʒən/|n.|氧气
 oxide|/ˈɒksaɪd/|n.|氧化物
-carbon dioxide|None|n.|二氧化碳
+carbon dioxide|/ˌkɑːbən daɪˈɒksaɪd/|n.|二氧化碳
 hydrogen|/ˈhaɪdrədʒən/|n.|氢气
 ---
 core|/kɔː(r)/|n.|中心；核心；地核
@@ -24,10 +24,10 @@ catastrophic|/ˌkætəˈstrɒfɪk/|adj.|灾难性的|If the forecast had been wr
 calamity|/kəˈlæməti/|n.|灾难；不幸的事|A hurricane would be a calamity for this low-lying coastal region|cause a calamity 酿成灾祸
 ---
 endanger|/ɪnˈdeɪndʒə(r)/|v.|使遭受危险；危及|If you are work hard without reset, you will endanger your health|endangered adj. 濒临灭绝
-jeopardise/jeopardize|None|v.|危害；危及|If you are rude to the boss, your chances of success may be jeopardised|jeopardise sb.'s life 危及某人生命
+jeopardise/jeopardize|/ˈdʒepədaɪz/|v.|危害；危及|If you are rude to the boss, your chances of success may be jeopardised|jeopardise sb.'s life 危及某人生命
 destructive|/dɪˈstrʌktɪv/|adj.|破坏性的；有害的|Jealousy is an extremely destructive emotion
 ---
-El Nino|None|n.|厄尔尼诺现象
+El Nino|/ˌel ˈniːnjəʊ/|n.|厄尔尼诺现象
 greenhouse|/ˈɡriːnhaʊs/|n.|温室；暖房
 phenomenon|/fəˈnɒmɪnən/|n.|现象|Snow is an almost unknown phenomenon in Egypt|复数形式：phenomena；a natural phenomenon 自然现象；a social phenomenon 社会现象
 ---
@@ -86,7 +86,7 @@ hemisphere|/ˈhemɪsfɪə(r)/|n.|半球
 equator|/ɪˈkweɪtə(r)/|n.|赤道
 ---
 arctic|/ˈɑːktɪk/|adj./n.|北极的；极冷的；北极地区；北极
-Antarctic|None|adj./n.|南极的；南极地区；南极洲
+Antarctic|/ænˈtɑːktɪk/|adj./n.|南极的；南极地区；南极洲
 pole|/pəʊl/|n.|（地）极；截然相反的两极之一|English is spoken from pole to pole|the South Pole 南极
 polar|/ˈpəʊlə(r)/|adj.|极地的；近极地的；对立的|In these polar region, the balance of nature has already been disrupted|a polar bear 北极熊；polarize v. 使两极分化
 axis|/ˈæksɪs/|n.|轴；轴线|The earth's axis is the line between the North and South Poles
@@ -97,8 +97,8 @@ degrade|/dɪˈɡreɪd/|v.|降解；降低...身份；使恶化；使退化
 upgrade|/ˌʌpˈɡreɪd/|v.|使升级；提高；改善
 erode|/ɪˈrəʊd/|v.|侵蚀；腐蚀|The waves erode the rocks on the shore|erosion n. 侵蚀；腐蚀
 ---
-Mediterranean|None|adj./n.|地中海的；地中海地区的；地中海；地中海地区
-Atlantic|None|n.|大西洋
+Mediterranean|/ˌmedɪtəˈreɪniən/|adj./n.|地中海的；地中海地区的；地中海；地中海地区
+Atlantic|/ətˈlæntɪk/|n.|大西洋
 pacific|/pəˈsɪfɪk/|adj./n.|平静的；平和的；太平洋的；太平洋|What a beautiful and pacific place this is|pacify v. 平息；安抚；使平静
 ---
 ocean|/ˈəʊʃn/|n.|海洋；洋|These creatures live in the depth of the Pacific Ocean|an ocean of/oceans of 大量
@@ -130,7 +130,7 @@ steep|/stiːp/|adj.|陡峭的
 parallel|/ˈpærəlel/|n./adj./v.|平行线；相似之处/平行的/与...相似；比得上|There few parallels between American football and European football|unparalleled adj. 无比的；无双的
 narrow|/ˈnærəʊ/|adj./n.|狭窄的；有极限的
 ---
-Oceania|None|n.|大洋洲
+Oceania|/ˌəʊsiˈɑːniə/|n.|大洋洲
 mainland|/ˈmeɪnlənd/|n.|大陆，本土
 peninsula|/pəˈnɪnsjələ/|n.|半岛
 ---
@@ -144,7 +144,7 @@ moderate|/ˈmɒdərət/|adj./v.|适度的；温和的；中等的/使缓和|The 
 warm|/wɔːm/|adj./v.|温暖的/（使）变暖
 ---
 thermal|/ˈθɜːml/|adj.|热量的
-tropics|None|n.|热带地区
+tropics|/ˈtrɒpɪk/|n.|热带地区
 arid|/ˈærɪd/|adj.|干燥的；干旱的；枯燥的
 ---
 moist|/mɔɪst/|adj.|潮湿的；湿润的
@@ -172,7 +172,7 @@ sprinkle|/ˈsprɪŋkl/|v./n.|撒；下小雨/少量；小雨|We've only had a fe
 rainbow|/ˈreɪnbəʊ/|n.|彩虹
 shower|/ˈʃaʊə(r)/|n.|阵；阵雨；淋浴|The weatherman predicts showers this afternoon
 ---
-Celsius|None|adj./n.|摄氏的/摄氏温度||Farhrenheit adj./n. 华氏的/华氏温度
+Celsius|/ˈselsiəs/|adj./n.|摄氏的/摄氏温度||Farhrenheit adj./n. 华氏的/华氏温度
 temperature|/ˈtemprətʃə(r)/|n.|气温；体温；温度||take sb.'s temperature 给...量体温
 forecast|/ˈfɔːkɑːst/|n./v.|预测；预报/预测；预言
 ---
@@ -188,11 +188,11 @@ hillside|/ˈhɪlsaɪd/|n.|小山的山腰；山坡
 overlook|/ˌəʊvəˈlʊk/|v.|远眺；俯瞰；未注意到|The house on the hill overlooks the village|be easily overlook 容易被忽略的
 ---
 southern|/ˈsʌðən/|adj.|南方的
-southeast|None|n./adj.
-southwest|None|n./adj.
+southeast|/ˌsaʊθ ˈiːst/|n./adj.
+southwest|/ˌsaʊθ ˈwest/|n./adj.
 ---
-northeast|None|n./adj.
-northwest|None|n./adj.
+northeast|/ˌnɔːθ ˈiːst/|n./adj.
+northwest|/ˌnɔːθ ˈwest/|n./adj.
 eastern|/ˈiːstən/|adj.
 oriental|/ˌɔːriˈentl/|adj.|东方的（尤其指中日）|She has studied the cultures of oriental countries
 ---
@@ -246,7 +246,7 @@ deforest|/ˌdiːˈfɒrɪst/|v.|毁掉...深林||deforestation n. 毁林，滥伐
 ---
 barren|/ˈbærən/|adj.|贫瘠的；荒芜的；不结果实的
 fertile|/ˈfɜːtaɪl/|adj.|富饶的；肥沃的
-fertilise/fertilize|None|v.| 施肥于
+fertilise/fertilize|/ˈfɜːtəlaɪz/|v.| 施肥于
 ---
 solar|/ˈsəʊlə(r)/|adj.|太阳的；日光的
 lunar|/ˈluːnə(r)/|adj.|月亮的；月球的
@@ -264,7 +264,7 @@ sunshine|/ˈsʌnʃaɪn/|n.|阳光；日光
 shade|/ʃeɪd/|n./v.|阴影部分；背阴处；给...遮挡（光线）
 shadow|/ˈʃædəʊ/|n.|影子
 ---
-vapour/vapor|None|n.| 蒸汽；水汽||与 steam 的区别是，steam 一般指的是水蒸气，vapor 泛指蒸汽，比如 mercury vapor 汞蒸汽
+vapour/vapor|/ˈveɪpə(r)/|n.| 蒸汽；水汽||与 steam 的区别是，steam 一般指的是水蒸气，vapor 泛指蒸汽，比如 mercury vapor 汞蒸汽
 evaporate|/ɪˈvæpəreɪt/|v.|使蒸发；消失
 circulate|/ˈsɜːkjəleɪt/|v.|循环；流通；传播
 precipitate|/prɪˈsɪpɪteɪt/|v.|凝结；沉淀|Clouds usually precipitate as rain or snow|precipitation n. 沉淀；降水量；陡然下落
@@ -329,7 +329,7 @@ genetics|/dʒəˈnetɪks/|n.|遗传学|In genetics, genes were formerly called f
 mutation|/mjuːˈteɪʃn/|n.|突变；变异
 variation|/ˌveəriˈeɪʃn/|n.|变种；变异||vary v. 变化
 diversity|/daɪˈvɜːsəti/|n.|多样性
-hybridisation/hybridization|None|n.|杂交||hybrid car
+hybridisation/hybridization|/ˌhaɪbrɪdaɪˈzeɪʃn/|n.|杂交||hybrid car
 classify|/ˈklæsɪfaɪ/|v.|分类|Librarians spend a lot of time classifying books|classified adj. 机密的；秘密的
 ---
 reproduce|/ˌriːprəˈdjuːs/|v.|繁殖
@@ -338,7 +338,7 @@ fluctuate|/ˈflʌktʃueɪt/|v.|波动；起伏
 ---
 reclaim|/rɪˈkleɪm/|v.|开垦；利用|This land was reclaimed from the sea
 cultivate|/ˈkʌltɪveɪt/|v.|耕作；培养|The farmer is cultivating his land|cultivate the habit of 养成...的习惯
-sow|None|v.|播种
+sow|/səʊ/|v.|播种
 harvest|/ˈhɑːvɪst/|v./n.|收割；收获；收成|A good summer harvest is not easy to come by|at the harvest
 ---
 pluck|/plʌk/|v.|采；摘|The pluck a rose for his lover
@@ -347,7 +347,7 @@ yield|/jiːld/|v./n.|产出；屈服；服从；产量；投资收益|This land 
 rear|/rɪə(r)/|v./n.|培养；抚养；饲养；后部|Most farmer in this area rear sheep
 arable|/ˈærəbl/|adj.|适合耕种的|This area changed quickly from arable land to desert
 ---
-plough/plow|None|n./v.| 犁；耕|The ground was ploughed/plowed and planted with corn
+plough/plow|/plaʊ/|n./v.| 犁；耕|The ground was ploughed/plowed and planted with corn
 spade|/speɪd/|n.|铲；锹|He bought a new spade
 rake|/reɪk/|n./v.|耙子；耙；搜索|With an ancient rusty rake I went to work|rake up leaves 耙落叶；His is raking it in 他很赚钱
 ---
@@ -361,7 +361,7 @@ sunlight|/ˈsʌnlaɪt/|n.|阳光
 short-day|None|adj.|短日照的|Soybean is a typical short-day corp 大豆是典型的短日照作物
 shade-tolerant|None|adj.|耐阴的
 fungus|/ˈfʌŋɡəs/|n.|真菌
-mould/mold|None|n./v.| 霉菌/发霉|The walls were black with mould
+mould/mold|/məʊld/|n./v.| 霉菌/发霉|The walls were black with mould
 ---
 pollen|/ˈpɒlən/|n./v.|花粉；给...授粉|Each spring, pollen from nearby plants is blown into the water
 germinate|/ˈdʒɜːmɪneɪt/|v.|发芽|Warmth is needed for the seeds to germinate
